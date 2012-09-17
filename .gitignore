@@ -15,5 +15,4 @@ project/media/uploads
 tmp
 settings_local.py
 .pypirc
-test.py
-
+tests.py
